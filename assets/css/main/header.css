@@ -555,7 +555,7 @@ html {
     top: 0;
     right: auto;
     left: 0;
-    width: 100%;
+    width: calc(100%-30px);
     display: inline-block;
     z-index: 99;
     background: var(--iq-body-bg);
